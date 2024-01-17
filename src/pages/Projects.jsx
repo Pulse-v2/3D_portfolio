@@ -15,7 +15,7 @@ const Projects = () => {
       </h1>
 
       <p className='text-slate-500 mt-2 leading-relaxed'>
-        Tell something about my projects
+        {/* TODO: Write smth about my project experiance  */}
       </p>
 
       <div className='flex flex-wrap my-20 gap-16'>
@@ -44,7 +44,7 @@ const Projects = () => {
                   rel='noopener noreferrer'
                   className='font-semibold text-blue-600'
                 >
-                  Live Link
+                  GitHub Link
                 </Link>
                 <img
                   src={arrow}
