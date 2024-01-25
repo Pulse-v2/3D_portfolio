@@ -6,6 +6,7 @@ import {
   css,
   firebase,
   freelance,
+  galaxy,
   git,
   github,
   html,
@@ -192,5 +193,12 @@ export const projects = [
     name: "NETFLIX-clone",
     description: "Describe about this project",
     link: "https://github.com/Pulse-v2/netflix-react-js",
+  },
+  {
+    iconUrl: galaxy,
+    theme: "btn-back-blue",
+    name: "GLX TRVL",
+    description: "Describe about this project",
+    link: "https://github.com/Pulse-v2/galaxy-travel",
   },
 ];

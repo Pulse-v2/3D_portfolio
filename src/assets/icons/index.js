@@ -3,6 +3,7 @@ import css from "./css.svg";
 import bootstrap from "./bootstrap-logo-shadow.png";
 import firebase from "./firebase.png";
 import freelance from "./freelance.svg";
+import galaxy from "./galaxy.svg";
 import git from "./git.svg";
 import github from "./github.svg";
 import html from "./html.svg";
@@ -33,6 +34,7 @@ export {
   css,
   firebase,
   freelance,
+  galaxy,
   git,
   github,
   html,
