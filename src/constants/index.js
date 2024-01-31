@@ -201,4 +201,11 @@ export const projects = [
     description: "Describe about this project",
     link: "https://github.com/Pulse-v2/galaxy-travel",
   },
+  {
+    iconUrl: nextjs,
+    theme: "btn-back-blue",
+    name: "Next.js Dashboard",
+    description: "Describe about this project",
+    link: "hhttps://github.com/Pulse-v2/nextjs-dashboard-tailwind",
+  },
 ];
